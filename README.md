@@ -12,6 +12,7 @@
 ![image](https://user-images.githubusercontent.com/5033961/220190530-f91a244e-796e-4771-917c-928acd7c69f4.png) : Az Hasarlı
 
 ![image](https://user-images.githubusercontent.com/5033961/220190568-d62e391b-db16-4775-9c9b-a07a799deb9d.png) : Hasarsız
+
 ---
 
 ### 20 Şubat 2023 Durum Raporu:
