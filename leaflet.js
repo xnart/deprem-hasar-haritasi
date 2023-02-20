@@ -1,13 +1,3 @@
-/*
- the script mus be loaded after the map div is defined.
- otherwise this will not work (we would need a listener to
- wait for the DOM to be fully loaded).
-
- Just put the script tag below the map div.
-
- The source code below is the example from the leaflet start page.
- */
-
 const map = L.map("map", {
   preferCanvas: true,
 }).setView([38.293311757000026, 38.30632123100003], 13);
@@ -25,6 +15,7 @@ function pickColor(status) {
     case "Orta Hasarlı":
       return "#EDAFB8";
     case "Ağır Hasarlı":
+    case "Acil Yıktırılacak":
       return "#960200";
     case "Yıkık":
       return "#050505";
