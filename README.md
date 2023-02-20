@@ -1,6 +1,6 @@
 # Malatya deprem hasar haritası
 
-https://xnart.github.io/hasar-harita-malatya/
+[Haritaya git](https://xnart.github.io/hasar-harita-malatya/)
 
 <img src="https://user-images.githubusercontent.com/5033961/220190765-c61f69bf-3d6a-45c0-b2cf-4977fb1737e4.png"  height="300">
 
@@ -12,4 +12,16 @@ https://xnart.github.io/hasar-harita-malatya/
 ![image](https://user-images.githubusercontent.com/5033961/220190530-f91a244e-796e-4771-917c-928acd7c69f4.png) : Az Hasarlı
 
 ![image](https://user-images.githubusercontent.com/5033961/220190568-d62e391b-db16-4775-9c9b-a07a799deb9d.png) : Hasarsız
+---
 
+### 20 Şubat 2023 Durum Raporu:
+```
+Az Hasarlı: 16331
+Hasarsız: 14456
+Ağır Hasarlı: 13354
+Yıkık: 2274
+Acil Yıktırılacak: 374
+Bina Kilitli İnceleme Yapılamadı (Girilemedi): 7874
+Değerlendirme Dışı: 1730
+Tespit Yapılamadı: 1726
+```
