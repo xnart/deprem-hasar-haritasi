@@ -25,6 +25,8 @@ function pickColor(status) {
 }
 
 buildings.forEach(b => {
-  let circle = L.circle([b.coordinates.latitude, b.coordinates.longitude], 1).addTo(map);
-  circle.setStyle({color: pickColor(b.status)});
+  if (b.coordinates != null) {
+    let circle = L.circle([b.coordinates.latitude, b.coordinates.longitude], 1).addTo(map);
+    circle.setStyle({color: pickColor(b.status)});
+  }
 });

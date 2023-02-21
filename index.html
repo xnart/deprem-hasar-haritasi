@@ -4,19 +4,35 @@
   <meta charset="utf-8"/>
   <title>Malatya Deprem Hasar</title>
 
-  <link rel="stylesheet" crossorigin=""
-        href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"/>
-  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js"
-          crossorigin=""></script>
+  <link crossorigin="" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css"
+        rel="stylesheet"/>
+  <script crossorigin=""
+          src="https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js"></script>
 
-  <link rel="stylesheet" href="leaflet.css"/>
+  <link href="leaflet.css" rel="stylesheet"/>
 
 </head>
 
 <body>
-<div id="map"></div>
-<div id="stats"></div>
-<div><a href="https://github.com/xnart/hasar-harita-malatya#readme" target="_blank">Açıklama</a></div>
+<div id="map">
+  <div class="overlay">
+    <span style="text-align: center">21.02.2023 verileri</span>
+    <div><span class="dot" style="background-color: #050505"></span>Yıkık</div>
+    <div><span class="dot" style="background-color: #960200"></span>Ağır Hasarlı veya Acil Yıktırılacak</div>
+    <div><span class="dot" style="background-color: #397367"></span>Az Hasarlı</div>
+    <div><span class="dot" style="background-color: #E5F9E0"></span>Hasarsız</div>
+  </div>
+  <span class="note">
+    Not: Çilesiz mahallesinin verileri 21 Şubat 2023'de bakanlık sistemden kaldırıldığı için haritada görünmemektedir.
+  </span>
+
+</div>
+<div id="stats">
+</div>
+<div>
+
+  <a href="https://github.com/xnart/hasar-harita-malatya#readme" target="_blank">Geçmiş veriler</a>
+</div>
 <script src="data.js"></script>
 <script src="leaflet.js"></script>
 <script src="stats.js"></script>

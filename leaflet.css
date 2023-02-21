@@ -6,3 +6,31 @@
     display: grid;
     grid-column-gap: 10px;
 }
+
+.dot {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.overlay {
+    display: flex;
+    flex-direction: column;
+    right: 0;
+    top: 0;
+    position: absolute;
+    z-index: 999;
+    padding: 5px;
+    background-color: white;
+}
+
+.note {
+    font-weight: bold;
+    padding: 10px;
+    position: absolute;
+    bottom: 10px;
+    left: 5px;
+    z-index: 999;
+    background-color: white;
+}
