@@ -15,16 +15,32 @@
 
 ---
 
+### 22 Şubat 2023 Durum Raporu:
+```
+ Yıkık: 3009
+ Acil Yıktırılacak: 336
+ Ağır Hasarlı: 17193
+ Az Hasarlı: 22131
+ Hasarsız: 22205
+ Bina Kilitli İnceleme Yapılamadı (Girilemedi): 10011
+ Değerlendirme Dışı: 3358
+ Tespit Yapılamadı: 2357
+ 
+Not: Çilesiz mahallesi hariç. (Bu tarihte bakanlık sisteminden Çilesiz mahallesinin verileri kaldırıldığından dolayı)
+```
+
+---
+
 ### 21 Şubat 2023 Durum Raporu:
 ```
- Yıkık: 2602
- Acil Yıktırılacak: 446
- Ağır Hasarlı: 15137
- Az Hasarlı: 19017
- Hasarsız: 19568
- Bina Kilitli İnceleme Yapılamadı (Girilemedi): 8897
- Değerlendirme Dışı: 2729
- Tespit Yapılamadı: 2254
+Yıkık: 2602
+Acil Yıktırılacak: 446
+Ağır Hasarlı: 15137
+Az Hasarlı: 19017
+Hasarsız: 19568
+Bina Kilitli İnceleme Yapılamadı (Girilemedi): 8897
+Değerlendirme Dışı: 2729
+Tespit Yapılamadı: 2254
  
 Not: Çilesiz mahallesi hariç. (Bu tarihte bakanlık sisteminden Çilesiz mahallesinin verileri kaldırıldığından dolayı)
 ```
