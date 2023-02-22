@@ -25,8 +25,6 @@
  Bina Kilitli İnceleme Yapılamadı (Girilemedi): 10011
  Değerlendirme Dışı: 3358
  Tespit Yapılamadı: 2357
- 
-Not: Çilesiz mahallesi hariç. (Bu tarihte bakanlık sisteminden Çilesiz mahallesinin verileri kaldırıldığından dolayı)
 ```
 
 ---
