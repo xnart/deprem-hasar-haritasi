@@ -1,4 +1,4 @@
-# Malatya deprem hasar haritası
+# Türkiye deprem hasar haritası
 
 [Haritaya git](https://xnart.github.io/deprem-hasar-haritasi/)
 
