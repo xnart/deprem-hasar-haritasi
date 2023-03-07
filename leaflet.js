@@ -1,6 +1,6 @@
 const map = L.map("map", {
   preferCanvas: true,
-}).setView([38.293311757000026, 38.30632123100003], 13);
+}).setView([37.616222044065566, 37.35930860177482], 7);
 
 L.tileLayer("https://{s}.tile.osm.org/{z}/{x}/{y}.png", {
   attribution: "&copy; <a href=\"https://osm.org/copyright\">OpenStreetMap</a> contributors",
